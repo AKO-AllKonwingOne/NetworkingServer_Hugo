@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8b10b46-d30b-4bd5-b561-30c31e0c723b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="d8b10b46-d30b-4bd5-b561-30c31e0c723b" name="Changes" comment="klient och server">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,11 +69,30 @@
       <updated>1716280213805</updated>
       <workItem from="1716280214856" duration="1807000" />
       <workItem from="1716282403385" duration="24000" />
-      <workItem from="1716452504961" duration="779000" />
+      <workItem from="1716452504961" duration="1567000" />
     </task>
+    <task id="LOCAL−00001" summary="klient och server">
+      <option name="closed" value="true" />
+      <created>1716453473002</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1716453473002</updated>
+    </task>
+    <task id="LOCAL−00002" summary="klient och server">
+      <option name="closed" value="true" />
+      <created>1716453538625</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1716453538625</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="klient och server" />
+    <option name="LAST_COMMIT_MESSAGE" value="klient och server" />
   </component>
 </project>
