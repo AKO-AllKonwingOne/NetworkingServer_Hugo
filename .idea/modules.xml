@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/NetworkingClient_Hugo/NetworkingClient_Hugo.iml" filepath="$PROJECT_DIR$/NetworkingClient_Hugo/NetworkingClient_Hugo.iml" />
       <module fileurl="file://$PROJECT_DIR$/NetworkingServer_Hugo.iml" filepath="$PROJECT_DIR$/NetworkingServer_Hugo.iml" />
     </modules>
   </component>
